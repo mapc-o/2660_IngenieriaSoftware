@@ -6,7 +6,6 @@ import productos.factory.Producto;
 
 public class main {
     public static void main(String[] args) {
-        System.out.println("Librería en línea\n\n");
         Scanner key = new Scanner(System.in);
         int opcion = 0;
         Tienda lib = new Tienda();
