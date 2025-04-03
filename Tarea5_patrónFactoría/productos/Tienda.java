@@ -2,6 +2,7 @@ package productos;
 
 public class Tienda {
     public void menu(){
+        System.out.println("*****Librería en línea*****\n");
         System.out.println("1) Libro Carlos Máster Muñóz");
         System.out.println("2) Libro Sapiens");
         System.out.println("3) Libro Infantil");
